@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxdHQ9XGtN8snehLq+R8rvmco+Zp5gElkW6FqFwBagQNAx4kvWd7aVj05BkA+dyHsstVbv0bYjaQr5h5uz6EVQ==",
+  "success": true,
+  "projectFilePath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/CyberSecMVC.csproj",
+  "expectedPackageFiles": [
+    "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

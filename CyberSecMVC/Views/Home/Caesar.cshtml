@@ -1,0 +1,44 @@
+@model Caesar;
+
+@if (ViewBag.Modal == true)
+{
+    <div class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>@ViewBag.Result</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="card d-flex flex-row">
+    <form asp-controller="Home" asp-action="CaesarEncipher" method="post" class="card-body"><br/>
+        <label for="toCypher">Text to cipher</label>
+        <input name="toCypher" type="text" asp-for="toCypher" class="form-control"/><br/>
+        @if (ViewBag.Modal)
+        {
+            <span><strong>Result:</strong> @ViewBag.EncipherResult</span><br/>
+        }
+        <input type="submit" class="form-control"/>
+    </form>
+        <form asp-controller="Home" asp-action="CaesarDecipher" method="post" class="card-body"><br/>
+            <label for="toCypher">Cipher to text</label>
+            <input name="toCypher" type="text" asp-for="toCypher" class="form-control"/><br/>
+            @if (ViewBag.Modal)
+            {
+                <span><strong>Result:</strong> @ViewBag.DecipherResult</span><br/>
+            }
+            <input type="submit" class="form-control"/>
+        </form>
+</div>
