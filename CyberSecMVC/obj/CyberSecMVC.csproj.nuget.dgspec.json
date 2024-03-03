@@ -4,6 +4,65 @@
     "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/CyberSecMVC.csproj": {}
   },
   "projects": {
+    "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/CyberSecClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/CyberSecClassLibrary.csproj",
+        "projectName": "CyberSecClassLibrary",
+        "projectPath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/CyberSecClassLibrary.csproj",
+        "packagesPath": "/home/ribbsii/.nuget/packages/",
+        "outputPath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ribbsii/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/CyberSecMVC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +84,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/CyberSecClassLibrary.csproj": {
+                "projectPath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/CyberSecClassLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

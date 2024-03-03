@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecMVC", "CyberSecMVC\CyberSecMVC.csproj", "{57DCA7A7-E1AC-429C-8AE4-1C029EFDCC05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecClassLibrary", "CyberSecClassLibrary\CyberSecClassLibrary.csproj", "{A4039CF2-8A49-4E68-9DBB-1FDBFE461239}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{57DCA7A7-E1AC-429C-8AE4-1C029EFDCC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57DCA7A7-E1AC-429C-8AE4-1C029EFDCC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57DCA7A7-E1AC-429C-8AE4-1C029EFDCC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4039CF2-8A49-4E68-9DBB-1FDBFE461239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4039CF2-8A49-4E68-9DBB-1FDBFE461239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4039CF2-8A49-4E68-9DBB-1FDBFE461239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4039CF2-8A49-4E68-9DBB-1FDBFE461239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

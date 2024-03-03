@@ -1,0 +1,12 @@
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/bin/Debug/net8.0/CyberSecClassLibrary.deps.json
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/bin/Debug/net8.0/CyberSecClassLibrary.dll
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/bin/Debug/net8.0/CyberSecClassLibrary.pdb
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.AssemblyInfoInputs.cache
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.AssemblyInfo.cs
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.csproj.CoreCompileInputs.cache
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.sourcelink.json
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.dll
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/refint/CyberSecClassLibrary.dll
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.pdb
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/ref/CyberSecClassLibrary.dll

@@ -1,4 +1,4 @@
-@model Caesar;
+@model CaesarModel;
 
 @if (ViewBag.Modal == true)
 {
@@ -23,7 +23,7 @@
 }
 
 <div class="card d-flex flex-row">
-    <form asp-controller="Home" asp-action="CaesarEncipher" method="post" class="card-body"><br/>
+    <form asp-controller="Caesar" asp-action="CaesarEncipher" method="post" class="card-body"><br/>
         <label for="toCypher">Text to cipher</label>
         <input name="toCypher" type="text" asp-for="toCypher" class="form-control"/><br/>
         @if (ViewBag.Modal)
@@ -32,7 +32,7 @@
         }
         <input type="submit" class="form-control"/>
     </form>
-        <form asp-controller="Home" asp-action="CaesarDecipher" method="post" class="card-body"><br/>
+        <form asp-controller="Caesar" asp-action="CaesarDecipher" method="post" class="card-body"><br/>
             <label for="toCypher">Cipher to text</label>
             <input name="toCypher" type="text" asp-for="toCypher" class="form-control"/><br/>
             @if (ViewBag.Modal)

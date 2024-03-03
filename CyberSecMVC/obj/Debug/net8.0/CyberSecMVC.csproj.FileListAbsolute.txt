@@ -28,3 +28,8 @@
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.pdb
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.genruntimeconfig.cache
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/ref/CyberSecMVC.dll
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/bin/Debug/net8.0/CyberSecClassLibrary.dll
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/bin/Debug/net8.0/CyberSecClassLibrary.pdb
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.csproj.AssemblyReference.cache
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.sourcelink.json
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.csproj.CopyComplete

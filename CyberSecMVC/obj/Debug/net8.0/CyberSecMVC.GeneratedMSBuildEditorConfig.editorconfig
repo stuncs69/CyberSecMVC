@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/Views/Home/Caesar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYWVzYXIuY3NodG1s
+[/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/Views/Caesar/Caesar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Flc2FyL0NhZXNhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/Views/Home/Index.cshtml]

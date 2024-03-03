@@ -1,6 +1,6 @@
 namespace CyberSecMVC.Models;
 
-public class Caesar
+public class CaesarModel
 {
     public string toCypher { get; set; }
 }

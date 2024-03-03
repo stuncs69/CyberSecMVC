@@ -1,4 +1,4 @@
-namespace CyberSecMVC.Functions;
+namespace CyberSecClassLibrary;
 
 public class Caesar
 {
