@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "He/9Mzo+mPlOpn/QQ4/4XwQ+r36XPxyOcFca48SbcRFvV1Lu5rkJg2CCRyAY/qNF1OdIjp9qHNnFwjINtVipGA==",
+  "dgSpecHash": "qSWvYlK0BOm0sXU6shtkW/DhOhFmo/H308Yi/qe7DtLyotwFh5YkMzMkPlqikhcGLgh2EWUm0Bbl2n7ylf1lxA==",
   "success": true,
   "projectFilePath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/CyberSecMVC.csproj",
   "expectedPackageFiles": [
-    "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+    "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,26 @@
+@model HashModel;
+
+<div class="card">
+    <div class="card-header">
+        <h1>SHA512 hashing</h1>
+    </div>
+    <form asp-controller="Hash" asp-action="Index" method="post" class="card-body"><br/>
+        <label for="toHash">Text to hash</label>
+        <input name="toHash" type="text" asp-for="toHash" class="form-control"/><br/>
+        @if (ViewBag.result != "")
+        {
+            <span><strong>Result:</strong> @ViewBag.result</span>
+            <br/>
+        }
+        <input type="submit" class="form-control"/>
+    </form>
+</div>
+<br/><br/>
+<div class="card d-flex flex-column">
+    <div class="card-header">
+        <h1>SHA512 zwakheden</h1>
+    </div>
+    <div class="card-body">
+        <p>SHA512 laat altijd 130 karakters zien, waardoor SHA512 makkelijk te spotten valt. Ook kan je dan snel zien of een woord vaak wordt gebruikt, zoals "70b77b7546d42e83139316ec07d048672f5c4aa41a1fec329de6c18e6ef53e3cf7ad124af18aec0b55a25adeb1051f47e8899921cfd9af560e8dafeb0939abcf" (hallo)</p>
+    </div>
+</div>

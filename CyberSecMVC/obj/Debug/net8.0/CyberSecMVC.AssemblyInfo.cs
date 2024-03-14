@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberSecMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fbcfd83a38c94a0319d4fa33ef25e485af485a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cff98b072585eda906bf815897fc2b1faef93c53")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberSecMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberSecMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
