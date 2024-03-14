@@ -2,6 +2,7 @@ using System.Security.Cryptography;
 using System.Text;
 using CyberSecMVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using SHA512 = CyberSecClassLibrary.SHA512;
 
 namespace CyberSecMVC.Controllers;
 
@@ -17,16 +18,7 @@ public class HashController : Controller
     [HttpPost]
     public IActionResult Index(HashModel model)
     { 
-        byte[] hashBytes = new SHA512Managed().ComputeHash(Encoding.UTF8.GetBytes(model.toHash));
-        
-        StringBuilder sb = new StringBuilder();
-        foreach (byte b in hashBytes)
-        {
-            sb.Append(b.ToString("x2"));
-        }
-        string hashResult = sb.ToString();
-        
-        ViewBag.result = hashResult;
+        ViewBag.result = new SHA512().Hash(model.toHash);
         
         return View();
     }
