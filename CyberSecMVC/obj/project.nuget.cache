@@ -1,10 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "qSWvYlK0BOm0sXU6shtkW/DhOhFmo/H308Yi/qe7DtLyotwFh5YkMzMkPlqikhcGLgh2EWUm0Bbl2n7ylf1lxA==",
+  "dgSpecHash": "l0n0YdtzWkO4faKK7sPSBV9898vVwr8BkgGgzEWU7bLjE9w5HdV1tKujV/Dr9cECCbUXcjemYaKx2ud4S9lhIw==",
   "success": true,
   "projectFilePath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/CyberSecMVC.csproj",
   "expectedPackageFiles": [
+    "/home/ribbsii/.nuget/packages/bcrypt.net/0.1.0/bcrypt.net.0.1.0.nupkg.sha512",
     "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BCrypt.Net 0.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt.Net",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

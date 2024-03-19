@@ -8,7 +8,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee0bbc7e-1d0c-4789-8303-af4872ea1786" name="Changes" comment="" />
+    <list default="true" id="ee0bbc7e-1d0c-4789-8303-af4872ea1786" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CyberSecMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CyberSecMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/CyberSecClassLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/CyberSecClassLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/SHA512.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/Hash.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/CyberSecClassLibrary.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/CyberSecClassLibrary.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/CyberSecClassLibrary.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/CyberSecClassLibrary.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecClassLibrary/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecClassLibrary/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/Controllers/HashController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/Controllers/HashController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/CyberSecMVC.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/CyberSecMVC.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/Views/Hash/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/Views/Hash/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/CyberSecMVC.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/CyberSecMVC.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/CyberSecMVC.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/CyberSecMVC.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyberSecMVC/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CyberSecMVC/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,6 +140,8 @@
       <workItem from="1709503756777" duration="328000" />
       <workItem from="1710418812507" duration="1848000" />
       <workItem from="1710442220494" duration="101000" />
+      <workItem from="1710442413488" duration="300000" />
+      <workItem from="1710857766724" duration="300000" />
     </task>
     <servers />
   </component>

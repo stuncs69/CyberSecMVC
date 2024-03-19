@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberSecClassLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0db0c427b714c47dff69bad3c14854fd38963aac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca264cc740e1624d6acf152e1a566a3e53aca6f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberSecClassLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberSecClassLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
