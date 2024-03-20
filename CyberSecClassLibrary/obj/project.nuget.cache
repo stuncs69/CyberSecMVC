@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "C0oIWdVnYybqvGQrYwpG4RliSK9y194iIfgjJsp/2d8l3J1c7t8n4D7/8iKYXsr5sXQJoT8QZV6rl8S8aTx+BQ==",
+  "dgSpecHash": "wzA0ISBw45lo81Vy7a2FlF4kAHHxiY4tepHlNBt4FIf0hTrRknQ+ZqUmP4aNF87vqfLXyUFVYNr7v34hcR0toA==",
   "success": true,
   "projectFilePath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/CyberSecClassLibrary.csproj",
   "expectedPackageFiles": [
     "/home/ribbsii/.nuget/packages/bcrypt.net/0.1.0/bcrypt.net.0.1.0.nupkg.sha512",
-    "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+    "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
   ],
   "logs": [
     {

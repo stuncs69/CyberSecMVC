@@ -33,3 +33,4 @@
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.csproj.AssemblyReference.cache
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.sourcelink.json
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/obj/Debug/net8.0/CyberSecMVC.csproj.CopyComplete
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/bin/Debug/net8.0/BCrypt.Net.dll

@@ -10,3 +10,4 @@
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/refint/CyberSecClassLibrary.dll
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.pdb
 /home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/ref/CyberSecClassLibrary.dll
+/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecClassLibrary/obj/Debug/net8.0/CyberSecClassLibrary.csproj.AssemblyReference.cache

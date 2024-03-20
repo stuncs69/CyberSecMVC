@@ -1,18 +1,26 @@
-@model HashModel;
+@model HashModel
 
 <div class="card">
     <div class="card-header">
         <h1>Hash hashing</h1>
     </div>
-    <form asp-controller="Hash" asp-action="Index" method="post" class="card-body"><br/>
+    <form id="hashForm" method="post" class="card-body" asp-action="Hash">
         <label for="toHash">Text to hash</label>
         <input name="toHash" type="text" asp-for="toHash" class="form-control"/><br/>
+        <label for="hashType">Select Hashing Algorithm</label>
+        <select id="hashType" name="hashType" class="form-control" asp-for="hashType">
+            <option value="SHA512">SHA512</option>
+            <option value="SHA1">SHA1</option>
+            <option value="SHA256">SHA256</option>
+            <option value="MD5">MD5</option>
+            <option value="BCrypt">BCrypt</option>
+        </select><br/>
         @if (ViewBag.result != "")
         {
             <span><strong>Result:</strong> @ViewBag.result</span>
             <br/>
         }
-        <input type="submit" class="form-control"/>
+        <input type="submit" class="form-control" value="Submit"/>
     </form>
 </div>
 <br/><br/>

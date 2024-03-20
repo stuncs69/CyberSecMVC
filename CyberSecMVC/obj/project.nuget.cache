@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "l0n0YdtzWkO4faKK7sPSBV9898vVwr8BkgGgzEWU7bLjE9w5HdV1tKujV/Dr9cECCbUXcjemYaKx2ud4S9lhIw==",
+  "dgSpecHash": "acMBCS0WQixrPZ4xPFZE2+JRmfdbH8db8JmO/Ii6SgBcHYE69o3rEGrj0LjbAHuEC2EujXIcBjc8b49+us5amg==",
   "success": true,
   "projectFilePath": "/home/ribbsii/RiderProjects/CyberSecMVC/CyberSecMVC/CyberSecMVC.csproj",
   "expectedPackageFiles": [
     "/home/ribbsii/.nuget/packages/bcrypt.net/0.1.0/bcrypt.net.0.1.0.nupkg.sha512",
-    "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+    "/home/ribbsii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
   ],
   "logs": [
     {
